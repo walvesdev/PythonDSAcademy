@@ -1,0 +1,1 @@
+ola esse arquivo foi gravado direto pelo jupyter notebook
